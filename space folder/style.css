@@ -1,5 +1,5 @@
 :root {
-    --color-mi-kai: rgb(200,50,70);
+    --kai: rgb(200,50,70);
 }
 
 
@@ -9,6 +9,6 @@
 
 .lol{
     width: 100px;
-    background: var(--color-mi-kai);
+    background: var(--kai);
     margin: 5px;
 }

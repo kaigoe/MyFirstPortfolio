@@ -10,3 +10,5 @@ G
 space folder/index.html,d\e\deb415f745f6f2165274c8211f5db4604ebae017
 9
 	style.css,4\6\46e3381e9569c09e85a30b9e5a2af7525ee9fd78
+F
+space folder/style.css,0\1\01c040d3307fe4abef48ed89c60d0f4af6ec9b02
