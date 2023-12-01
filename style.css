@@ -1,0 +1,14 @@
+:root {
+    --color-mi-kai: rgb(200,50,70);
+}
+
+
+#display{
+    display: flex;
+}
+
+.lol{
+    width: 100px;
+    background: var(--color-mi-kai);
+    margin: 5px;
+}
